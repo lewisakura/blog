@@ -2,6 +2,8 @@
 title: 'About Me'
 ---
 
+{{< figure src="https://lewistehminerz.dev/assets/img/oc.webp" caption="Hi, it's me!" style="max-width: 250px" position="center" >}}
+
 Hi, I'm Lewis, or more commonly known online as LewisTehMinerz. You've probably found me from my
 website or [GitHub](https://github.com/LewisTehMinerz).
 
