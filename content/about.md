@@ -1,6 +1,6 @@
----
-title: 'About Me'
----
++++
+title = "About Me"
++++
 
 {{< figure src="https://lewistehminerz.dev/assets/img/oc.webp" caption="Hi, it's me!" style="max-width: 250px" position="center" >}}
 
