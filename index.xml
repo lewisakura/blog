@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lewistehminerz's blog</title><link>/</link><description>Recent content on lewistehminerz's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; 2021 Lewis Crichton</copyright><lastBuildDate>Mon, 21 Jun 2021 16:07:34 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Bunger</title><link>/posts/bunger/</link><pubDate>Mon, 21 Jun 2021 16:07:34 +0100</pubDate><guid>/posts/bunger/</guid><description>Bunger is a simple bot. You say bunger (or any variation of it like Bunger!, bUnGeR, whatever) and you get this cute fella:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lewistehminerz's blog</title><link>/</link><description>Recent content on lewistehminerz's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; 2021 Lewis Crichton</copyright><lastBuildDate>Mon, 27 Sep 2021 13:54:33 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Barriers to Communication</title><link>/posts/barriers-to-communication/</link><pubDate>Mon, 27 Sep 2021 13:54:33 +0100</pubDate><guid>/posts/barriers-to-communication/</guid><description>This post is related to a college assignment about writing a blog post regarding barriers to effective communication.
+When engaging in conversation with a person or audience, there are many barriers to communication that you have to keep in mind to preserve effective communication.
+Language Barrier Not being able to speak the language that your audience uses means that they will not understand what you say.
+Interpreters can help get over this issue but learning the language itself will help engage your audience more as they won’t have to keep swapping between speakers.</description><content>&lt;!-- raw HTML omitted -->
+&lt;p>&lt;em>This post is related to a college assignment about writing a blog post regarding barriers to effective communication.&lt;/em>&lt;/p>
+&lt;p>When engaging in conversation with a person or audience, there are many barriers to communication that you have to keep in mind to
+preserve effective communication.&lt;/p>
+&lt;h1 id="language-barrier">Language Barrier&lt;/h1>
+&lt;p>Not being able to speak the language that your audience uses means that they will not understand what you say.&lt;/p>
+&lt;p>Interpreters can help get over this issue but learning the language itself will help engage your audience more as they won’t have
+to keep swapping between speakers.&lt;/p>
+&lt;h1 id="auditory">Auditory&lt;/h1>
+&lt;p>People will not be able to hear you if they are deaf. A sign language interpreter will help them understand your communication.&lt;/p>
+&lt;h1 id="incoherence">Incoherence&lt;/h1>
+&lt;p>Mumbling, stuttering, and slurring your speech can make it completely incoherent and your audience will not be able to understand
+you.&lt;/p>
+&lt;h1 id="disengagement">Disengagement&lt;/h1>
+&lt;p>If your audience is not engaged with the communication, they will not absorb information or bother listening.&lt;/p>
+&lt;h1 id="distractions">Distractions&lt;/h1>
+&lt;p>If you are attempting to establish communication in a distracting environment, your audience may be more interested in other
+things if you don’t make your communication engaging.&lt;/p>
+&lt;h1 id="multimedia">Multimedia&lt;/h1>
+&lt;p>If your communication doesn’t have multimedia (images, videos, audio) your audience may become disengaged with it.&lt;/p>
+&lt;h1 id="body-language">Body Language&lt;/h1>
+&lt;p>If your audience sees your body language as negative, they will become disengaged.&lt;/p>
+&lt;h1 id="informal-language">Informal Language&lt;/h1>
+&lt;p>Usage of words such as slang words can result in your communication being unintelligible for certain people who do not know what
+the slang means.&lt;/p>
+&lt;h1 id="unorganisaed">Unorganisaed&lt;/h1>
+&lt;p>If you are stumbling through your communication because you never organised it or planned, your audience will not take you
+seriously and will disengage.&lt;/p>
+&lt;h1 id="unpresentable">Unpresentable&lt;/h1>
+&lt;p>Without a proper presentation set up, your audience will not understand your communication well and may even completely
+misunderstand what you say.&lt;/p></content></item><item><title>Bunger</title><link>/posts/bunger/</link><pubDate>Mon, 21 Jun 2021 16:07:34 +0100</pubDate><guid>/posts/bunger/</guid><description>Bunger is a simple bot. You say bunger (or any variation of it like Bunger!, bUnGeR, whatever) and you get this cute fella:
 I got this idea from the owner of a Roblox game called ZO (very fun game by the way, you should give it a shot!). I was bored, and I built it. Seems like the game&amp;rsquo;s community took a liking to it as well, since they very much enjoy Bunger.</description><content>&lt;p>Bunger is a simple bot. You say &lt;code>bunger&lt;/code> (or any variation of it like &lt;code>Bunger!&lt;/code>, &lt;code>bUnGeR&lt;/code>, whatever) and you get this cute fella:&lt;/p>
 &lt;p>&lt;img src="https://lewistehminerz.dev/assets/img/bunger.gif" alt="bunger">&lt;/p>
 &lt;p>I got this idea from the owner of a Roblox game called &lt;a href="https://www.roblox.com/games/6678877691/ZO-WIP">ZO&lt;/a> (very fun game by the
