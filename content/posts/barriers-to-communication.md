@@ -24,29 +24,35 @@ People will not be able to hear you if they are deaf. A sign language interprete
 
 # Incoherence
 Mumbling, stuttering, and slurring your speech can make it completely incoherent and your audience will not be able to understand
-you.
+you. Make sure to rehearse your speech and stay confident, and make sure to be clear so your audience can hear you.
 
 # Disengagement
-If your audience is not engaged with the communication, they will not absorb information or bother listening.
+If your audience is not engaged with the communication, they will not absorb information or bother listening. Make your speech
+interesting by adding things the audience can relate to.
 
 # Distractions
 If you are attempting to establish communication in a distracting environment, your audience may be more interested in other
-things if you don’t make your communication engaging.
+things if you don’t make your communication engaging. Reduce distractions as much as possible such as moving to a more closed
+space.
 
 # Multimedia
-If your communication doesn’t have multimedia (images, videos, audio) your audience may become disengaged with it.
+If your communication doesn’t have multimedia (images, videos, audio) your audience may become disengaged with it. Adding
+images can emphasise parts of your communication and re-engage your audience.
 
 # Body Language
-If your audience sees your body language as negative, they will become disengaged.
+If your audience sees your body language as negative, they will become disengaged. Keep your body language positive and
+engaging.
 
 # Informal Language
 Usage of words such as slang words can result in your communication being unintelligible for certain people who do not know what
-the slang means.
+the slang means. Keep your vocabulary simple and avoid terms that your audience may not understand.
 
 # Unorganisaed
 If you are stumbling through your communication because you never organised it or planned, your audience will not take you
-seriously and will disengage.
+seriously and will disengage. Plan and rehearse your communication to make sure you stay on track and don't disengage the
+audience.
 
 # Unpresentable
 Without a proper presentation set up, your audience will not understand your communication well and may even completely
-misunderstand what you say.
+misunderstand what you say. Make sure your communication is presentable, either by practicing it to make sure it makes
+sense, or with someone else and ask for feedback.
