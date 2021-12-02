@@ -20,15 +20,18 @@ Interpreters can help get over this issue but learning the language itself will 
 to keep swapping between speakers.
 
 # Auditory
-People will not be able to hear you if they are deaf. A sign language interpreter will help them understand your communication.
+People will not be able to hear you if they are deaf. A sign language interpreter will help them understand your communication,
+however, just like before, it's preferable to learn sign language yourself and interpret live so that your audience doesn't need
+to swap between speakers.
 
 # Incoherence
 Mumbling, stuttering, and slurring your speech can make it completely incoherent and your audience will not be able to understand
-you. Make sure to rehearse your speech and stay confident, and make sure to be clear so your audience can hear you.
+you. Make sure to rehearse your speech and stay confident, and make sure to be clear so your audience can hear you. An alternative
+is to have a teleprompter or a similar method of reading your script so that you can avoid misspeaking.
 
 # Disengagement
 If your audience is not engaged with the communication, they will not absorb information or bother listening. Make your speech
-interesting by adding things the audience can relate to.
+interesting by adding things the audience can relate to whilst keeping it appropriate. 
 
 # Distractions
 If you are attempting to establish communication in a distracting environment, your audience may be more interested in other
@@ -37,22 +40,26 @@ space.
 
 # Multimedia
 If your communication doesn’t have multimedia (images, videos, audio) your audience may become disengaged with it. Adding
-images can emphasise parts of your communication and re-engage your audience.
+images and videos can emphasise parts of your communication and re-engage your audience. If you're doing a PowerPoint, using
+animations can also re-engage audience members.
 
 # Body Language
-If your audience sees your body language as negative, they will become disengaged. Keep your body language positive and
-engaging.
+If your audience sees your body language as negative, they will become disengaged and become negative themselves. Keep your body
+language positive and engaging. Audiences tend to reflect your body language, so by using positive body language they will become
+positive.
 
 # Informal Language
 Usage of words such as slang words can result in your communication being unintelligible for certain people who do not know what
-the slang means. Keep your vocabulary simple and avoid terms that your audience may not understand.
+the slang means. Keep your vocabulary simple and avoid terms that your audience may not understand. This makes it so everyone is
+on the same page, and not just people from a certain community.
 
 # Unorganisaed
 If you are stumbling through your communication because you never organised it or planned, your audience will not take you
 seriously and will disengage. Plan and rehearse your communication to make sure you stay on track and don't disengage the
-audience.
+audience. As before, you can use a teleprompter or some other method of reading a script to act as a point of reference.
 
 # Unpresentable
 Without a proper presentation set up, your audience will not understand your communication well and may even completely
 misunderstand what you say. Make sure your communication is presentable, either by practicing it to make sure it makes
-sense, or with someone else and ask for feedback.
+sense, or with someone else and ask for feedback. Asking someone else for feedback also has the advantage of knowing how your
+ideas came across to an audience.
