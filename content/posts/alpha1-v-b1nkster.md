@@ -8,6 +8,8 @@ draft = false
 
 I recently saw the case of Alpha1 and b1nkster/Ryan so I'm coming to give my two cents on it as part of ZO ぞ's management team.
 
+This writeup exists purely because Alpha1 made a video on it. I wouldn't have cared otherwise.
+
 Alpha1 purposely told half-truths about the situation. A lot of what he claimed happened was true, but he left out important
 details to make the story go in his favour for him and his fanbase. I assume the majority of this is under the guise of "family
 friendly"ness but if you're going to post things like this towards a staff team on your publicly linked Twitter and in the ITTO
@@ -116,12 +118,43 @@ And at this point, nothing else meaningful was going to happen. Alpha tried to g
 
 {{< figure src="https://i.imgur.com/CevycaA.png" caption="*yawn* Oh god, we're still going on? No? Finally." >}}
 
+Ryan then proceeded to ban Alpha1 permanently from ZOぞ.
+
+# The Aftermath
+
+After all of this went down, Alpha1 came to Twitter.
+
+{{< figure src="https://i.imgur.com/1aqmgse.png" caption="Oh for god sake I thought this was over." >}}
+
+The replies to this tweet are something else that I won't cover, so you can [read it yourself](https://twitter.com/okalpha1/status/1475505228065624070)
+if you so desire. I'll follow the main thread.
+
+Zeek responded to this with a pretty simple message.
+
+{{< figure src="https://i.imgur.com/Blydvw6.png" caption="It's true!" >}}
+
+Alpha's main response is the same argument he tried to use before. He had the audio before the rule change, so he should be allowed
+to keep it!
+
+{{< figure src="https://i.imgur.com/fF0NJ0w.png" caption="You already got rejected for using this, what makes you think it'll work here?" >}}
+
+And Zeek hit back.
+
+{{< figure src="https://i.imgur.com/iQbuOw8.png" caption="I told you being a YouTuber is meaningless." >}}
+
+Alpha proceeded to try and justify his actions.
+
+{{< figure src="https://i.imgur.com/qXixsfH.png" caption="Justifying harassment... yikes." >}}
+
+To which he got left on read. Ouch.
+
 # My Thoughts
 
 Alpha1 acted severely childish during this entire case. He couldn't handle the truth that what he was doing wasn't okay in the new
 rules, and decided to try and resist to.. what, start a revolution or something? All he had to do was follow the moderator's request,
 but he tried to villainize us and make ITTO look like the bad guys. In his video, he leaves out several important aspects of the
-case to try and make himself look good and to rally his fanbase behind the cause.
+case to try and make himself look good and to rally his fanbase behind the cause. Him proceeding to try and convince Zeek on Twitter
+to get unbanned just because he's a YouTuber is silly as well.
 
 Regardless of your status, you are treated equal in this community. YouTuber or not, we aren't afraid to issue the same punishments
 to you as to everyone else. You can try and cancel us or whatever, but we will very much hit back if we have to. Alpha made a big
