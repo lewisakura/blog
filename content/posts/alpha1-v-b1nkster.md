@@ -6,7 +6,7 @@ tags = ["zo"]
 draft = false
 +++
 
-I recently saw the case of Alpha1 and b1nkster/Ryan so I'm coming to give my two cents on it as part of ZO ぞ's management team.
+I recently saw the case of Alpha1 and b1nkster/Ryan so I'm coming to give my two cents on it as part of ZOぞ's management team.
 
 Alpha1 purposely told half-truths about the situation. A lot of what he claimed happened was true, but he left out important
 details to make the story go in his favour for him and his fanbase. I assume the majority of this is under the guise of "family
