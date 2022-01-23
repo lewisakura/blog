@@ -6,7 +6,7 @@ tags = ["zo"]
 draft = false
 +++
 
-I recently saw the case of Alpha1 and b1nkster/Ryan so I'm coming to give my two cents on it as part of ZO ぞ's management team.
+I recently saw the case of Alpha1 and b1nkster/Ryan so I'm coming to give my two cents on it as part of ZOぞ's management team.
 
 This writeup exists purely because Alpha1 made a video on it. I wouldn't have cared otherwise.
 
