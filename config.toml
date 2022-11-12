@@ -42,17 +42,17 @@ enableGitInfo = true
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "LewisTehMinerz"
-  site = "LewisTehMinerz"
+  creator = "lewisakura_"
+  site = "lewisakura"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "lewistehminerz's blog"
+    title = "lewisakura's blog"
     subtitle = "My personal blog for development and whatnot"
-    owner = "LewisTehMinerz"
+    owner = "lewisakura"
     keywords = ""
-    copyright = "&copy; 2021 Lewis Crichton"
+    copyright = "&copy; 2022 Lewis Crichton"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -62,7 +62,7 @@ enableGitInfo = true
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "LewisTehMinerz"
+      logoText = "lewisakura"
       logoHomeLink = "/"
 
     [languages.en.menu]
